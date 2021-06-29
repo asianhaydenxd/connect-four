@@ -1,2 +1,2 @@
-# connectfour
+# connect-four
 ASCII Connect Four
